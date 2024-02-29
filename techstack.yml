@@ -2,7 +2,7 @@ repo_name: stevekennedyuk/gbtest
 report_id: 0f90fe23a7357bfb4c419f38c224ed37
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:09:30+00:00'
+timestamp: '2024-02-29T18:19:13+00:00'
 requested_by: gatsby-cloud[bot]
 provider: github
 branch: master
@@ -70,7 +70,7 @@ tools:
   detection_source_url: https://github.com/stevekennedyuk/gbtest
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
